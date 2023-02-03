@@ -6,15 +6,6 @@ class Hello {
 			System.out.println("깃허브를 연습하자2");
 			System.out.println("깃허브를 연습하자3");
 
-
-						}
-
-
-
 						}
 
 			}
-}
-
-
-
